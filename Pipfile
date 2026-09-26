@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 ollama = "*"
 argparse = "*"
+tabulate = "*"
 
 [dev-packages]
 
